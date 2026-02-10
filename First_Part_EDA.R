@@ -4,7 +4,7 @@ library(dplyr)
 library(tidyr)
 
 #Load the dataset
-BSD <- read_csv("~/Documents/Third Year (Second 2025)/Data Communication and Ethics/Billionaires-Data-Analysis/Billionaires Statistics Dataset.csv")
+BSD <- read_csv("Billionaires Statistics Dataset.csv")
 
 #-------------------EDA process------------------
 
