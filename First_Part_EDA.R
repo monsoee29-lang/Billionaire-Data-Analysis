@@ -23,8 +23,7 @@ colnames(BSD)[sapply(BSD,is.logical)] #(TRUE/FALSE) columns
 sum(is.na(BSD))
 
 colSums(is.na(BSD))
-#When I checked numbers of column by column which has missing values, there are 4 columns 
-#that I should drop because those columns has big portion amount of missing values which can make inaccurate analysis.  
+#When I checked numbers of column by column which has missing values, there are 4 columns that I should drop because those columns has big portion amount of missing values which can make inaccurate analysis.  
 #Those columns are "organization" with 2315 missing values, "title" with 2301 missing values, "state" with 1887 missing values and "residenceStateRegion" with 1893 missing values. 
 #Even remained columns has respective missing values, they are very few amount. 
 
