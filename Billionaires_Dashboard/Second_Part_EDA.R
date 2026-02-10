@@ -66,7 +66,7 @@ is.na(BSD)
 
 #Now, the data set is ready to analyze and build R shiny dashboard.
 
-#I chose the most 3 interesting questions in my point of view based on the questions of EDA midterm project. 
+#I chose the most 3 interesting questions in my point of view based on first part of EDA. 
 
 #(1)What are highest 5 industries that hit most billionaires?
 #(2)Who are individuals with highest net worth within the highest industry with most billionaires? 
