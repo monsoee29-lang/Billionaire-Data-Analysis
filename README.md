@@ -12,6 +12,7 @@ This project provides a comprehensive Exploratory Data Analysis (EDA) and an int
 It is designed as an ideal reference for students looking to practice data cleaning (handling missing values), descriptive statistics, and building interactive dashboards using R Shiny.
 
 **📊 Data Science Workflow (R-Based)**
+
 **1. Data Preprocessing & Integrity**
 
 Real-world datasets require careful cleaning before analysis. I implemented a robust preprocessing pipeline:
@@ -57,6 +58,7 @@ The R Shiny dashboard transforms the static analysis into a dynamic tool using b
 - Deployment: GitHub
 
 **📊 Dataset Source**
+
 The data is sourced from the Billionaires Statistics Dataset (2023) via Kaggle.
 
 - Origin: Forbes Billionaires List.
